@@ -32,6 +32,5 @@ namespace HealthyJourney.Data.Repository
             return ctx.Clients.ToList();
 
         }
-## hello from TCS
     }
 }
